@@ -1,4 +1,4 @@
-#Python Scripts for DLC Analysis
+# Python Scripts for DLC Analysis
 
 In this repository are scripts to facilitate the analysis of results from [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut), a markerless pose estimator from the [Mathis Lab](http://www.mousemotorlab.org/).
 
